@@ -4,7 +4,7 @@ The IT Service Intelligence (ITSI) Content Pack for monitoring system health for
 
 Prerequisites:
 - Splunk Add-on for Amazon Web Services (AWS)
-- Splunk App for Content Packs
+
 - Splunk ITSI
 
 Install the content pack as a Splunk Add-on and then navigate to the Data Integrations tab on Splunk ITSI. Browse and select this content pack to walk through the import process.
