@@ -457,5 +457,5 @@
     "services_depends_on": [],
     "team_id": "default_itsi_security_group",
     "title": "AWS EBS I/O Balance",
-    "version": "0.0.1"
+    "version": "1.0.0"
 }
